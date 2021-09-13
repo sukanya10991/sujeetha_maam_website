@@ -32,3 +32,12 @@ img {
 #left2 {
     margin-left: 700px;
 }
+
+button {
+    background-image: url("bg7.jpg");
+    color: white !important;
+    font-size: 25px !important;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
